@@ -1,4 +1,4 @@
-![DevSecOps](https://media.licdn.com/media/AAEAAQAAAAAAAAKnAAAAJDJiNGU3MDg1LWVhZjktNDM3Ny1iMjJhLWM3MWQzYjI5MzllZg.png)
+![DevSecOps](./_images/devsecops.png)
 
 Welcome to the DevSecOps initiative and software repositories.  These repositories are meant to help build a community around DevOps + Security experimentation and lessons intended to help scale and deliver Rugged software.  This is the primary repository to help with understanding the mission and getting involved.  This is an actively evolving project and is intended to change over time.
 
