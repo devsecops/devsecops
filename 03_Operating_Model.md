@@ -1,3 +1,10 @@
+Operating Model
+===============
+
+Building an effective DevSecOps Operating Model takes some effort to align people, process and technolgy so that it meets the needs of securing business workloads.  In this way, it is imperative for DevOps teams to build and ship secure software.
+
+
+
 # Security As Code
 
 - It's not _just_ revision control
