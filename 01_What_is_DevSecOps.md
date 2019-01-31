@@ -3,7 +3,7 @@
 
 Security is fast becoming an established function within most organizations to ensure the safety of software.  DevSecOps is a journey to build security into the Continuous Delivery of software as part of the DevOps process.  It is way forward for eliminating bottle-necks and blocking processes to help DevOps teams to understand how to build secure software and understand when it is being exploited in ways that were not intended.  
 
-DevSecOps tackles security with a focus on inovation and scalability while trying to bring security ever closer to source code and our customers; developers and DevOps.  
+DevSecOps tackles security with a focus on innovation and scalability while trying to bring security ever closer to source code and our customers; developers and DevOps.  
 
 
 ## Manifesto
